@@ -1,0 +1,8 @@
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\bin\Debug\TrianglePattern.exe.config
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\bin\Debug\TrianglePattern.exe
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\bin\Debug\TrianglePattern.pdb
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\obj\Debug\TrianglePattern.csproj.AssemblyReference.cache
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\obj\Debug\TrianglePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\obj\Debug\TrianglePattern.csproj.CoreCompileInputs.cache
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\obj\Debug\TrianglePattern.exe
+C:\Users\tngu212\source\repos\TrianglePattern\TrianglePattern\obj\Debug\TrianglePattern.pdb
